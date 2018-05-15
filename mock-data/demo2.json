@@ -1,0 +1,10 @@
+[
+    {
+        "method": "get",
+        "url": "/v1/demo2",
+        "response": {
+            "errorCode": 0,
+            "errorMsg": ""
+        }
+    }
+]
